@@ -1,19 +1,23 @@
 <!DOCTYPE HTML>
 
 <html lang="en">
-    <head>
+    <head> 
+        
         <meta Charset= "UFT-8"/>
+
+        <a <img <link rel="icon" href=" ./desktop/school work/Fanclub-rihanna/rf.jpg"> />
 
         <Title> We Love Rih </Title>
 
-        <a <link rel="icon" href=" ./desktop/school work/Fanclub-rihanna/rf.jpg">
+        
 
     <body>
         <h1>WELCOME RIHANNA NAVY!!!!!</h1>
         
         <p>
             Welcome to the most live Rihanna Fan Page Around! Here you will find Rihanna fun facts 
-            and even a pop quiz to test your Fandom.
+            and a way to get closer to your favorite artist by learning about what Rihanna does to better 
+            our world step by step.
         </p>
 
             <h2>DID YOU KNOW?...</h2>
@@ -39,7 +43,7 @@
 
         <Br />
 
-        <a herf= "https://claralionelfoundation.org/"
+        <a <link herf= "https://claralionelfoundation.org/">
     
 
     </body>
